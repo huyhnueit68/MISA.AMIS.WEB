@@ -1,0 +1,15 @@
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\MISA.Infastructure.deps.json
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\MISA.Infastructure.dll
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\ref\MISA.Infastructure.dll
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\MISA.Infastructure.pdb
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\MISA.ApplicationCore.dll
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\bin\Debug\net5.0\MISA.ApplicationCore.pdb
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.csproj.AssemblyReference.cache
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.AssemblyInfoInputs.cache
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.AssemblyInfo.cs
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.csproj.CoreCompileInputs.cache
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.csproj.CopyComplete
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.dll
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\ref\MISA.Infastructure.dll
+C:\Document Study\MISA_Training\MISA.WEB2021_05B\web05b-mf869-pqhuy\backend\MISA.AMIS\MISA.Infastructure\obj\Debug\net5.0\MISA.Infastructure.pdb

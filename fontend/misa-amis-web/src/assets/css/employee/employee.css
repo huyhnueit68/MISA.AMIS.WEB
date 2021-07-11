@@ -1,0 +1,61 @@
+/* css content container */
+.content-container {
+  height: calc(100vh - var(--header-height));
+  padding: 0px 16px;
+  padding-left: 20px;
+}
+
+/* header content */
+.header-content {
+  padding: 24px 0 24px 0;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* header content left */
+.header-content .content-left .left-title {
+  font-size: 24px;
+  height: var(--header-content-height);
+  font-weight: 700;
+  color: #111;
+}
+
+/* header cotnent right */
+.toolbar-btn-add {
+  height: 36px;
+  padding: 8px 14px 8px 20px;
+  display: flex;
+  align-items: center;
+  background-color: #2ca01c;
+  border-radius: 4px;
+  font-size: 13px;
+  color: #ffffff;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.toolbar-btn-add:hover {
+  background-color: #35bf22;
+  cursor: pointer;
+}
+
+.toolbar-btn-add .btn-add-title {
+  font-family: "NotoSans-bold";
+  position: relative;
+  color: inherit;
+  display: inline-block;
+  font-size: 13px;
+}
+
+/* css for box table inclue toolbar, table and paging */
+.content-main {
+  width: 100%;
+  position: relative;
+  height: calc(
+    100% - var(--header-height) - var(--header-content-height) - 14px
+  );
+  background-color: #fff;
+}
